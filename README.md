@@ -3,7 +3,7 @@
 Feito por Vinícius Pontes Oliva (CB3025764) e Eduardo Barbosa (CB302637X)
 Linguagem de programação: C++
 
-#Exercício
+# Exercício
 
 Implementar um sistema simples de atendimento com a oferta de 3 opções através de um seletor:
 
